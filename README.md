@@ -11,9 +11,12 @@ OliveEdge aims to bring all essential exam-related information into a single, st
 - Avoid unreliable or repetitive resources
 - Save time and focus on preparation rather than searching
 
+## Why a Backend-Driven System
+Defence exam information is dynamic, high-stakes, and must be accurate. OliveEdge uses a backend-driven architecture to act as a single source of truth, enforce role-based access (admin vs aspirant), and ensure that only verified and structured data is exposed to users. This prevents misinformation and maintains trust in the platform.
+
 ## Project Goals
 - Build a real-world fullstack web application
-- Learn and apply backend development concepts
+-  Design and implement a backend system that manages structured, verified exam data
 - Create a placement-ready project with clean architecture
 - Solve an actual problem faced by defence aspirants
 
@@ -50,7 +53,7 @@ OliveEdge aims to bring all essential exam-related information into a single, st
 - Backend: Render
 
 ## Project Status
-🚧 In development — actively building as a final year fullstack project.
+🚧 Phase 0 completed — domain understanding, planning, and repository setup.
 
 ---
 
